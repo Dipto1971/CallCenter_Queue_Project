@@ -1,6 +1,6 @@
 # Virtual Call Center Project
 
-This project implements a virtual call center with the ability to receive, assign, and manage customer calls using both C++ and JavaScript programming languages. The call center consists of multiple servers that handle customer calls for a fixed duration and save call history. It utilizes queues and asynchronous programming concepts to efficiently manage calls and server resources.
+This 'Data Structure' project implements a virtual call center with the ability to receive, assign, and manage customer calls using both C++(Basic) and JavaScript(Advanced) programming languages. The call center consists of multiple servers that handle customer calls for a fixed duration and save call history. It utilizes queues and asynchronous programming concepts to efficiently manage calls and server resources.
 
 ## Table of Contents
 - [Project Overview (C++)](#project-overview-c)
